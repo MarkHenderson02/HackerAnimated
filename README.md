@@ -6,4 +6,4 @@ Jangan lupa input database Anda agar bisa menyimpan data Login
 
 TAMPILAN LAYAR HACKER ANIMATED 
 ![Screenshot 2023-10-08 174704](https://github.com/MarkHenderson02/HackerAnimated/assets/114543984/904846f4-d8ee-41a3-9db9-d3efd9a09fa1)
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://github.com/MarkHenderson02/HackerAnimated/assets/114543984/d059a5d1-c1d4-414a-af02-31d1e5c50b2e)
+[![asciicast](https://asciinema.org/a/113463.png)](https://github.com/MarkHenderson02/HackerAnimated/assets/114543984/d059a5d1-c1d4-414a-af02-31d1e5c50b2e)
